@@ -39,7 +39,7 @@ The AI Mainframe Optimizer is a Streamlit application designed to analyze mainfr
 
 ## Deployment
 The application is deployed and accessible at:
-https://8501-iw4s4izoz4g7hyfbianjj-152ebe12.manus.computer
+https://optizframe.streamlit.app/
 
 ## Sample Data
 The application includes sample data in CSV format with the following columns:
