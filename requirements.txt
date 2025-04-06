@@ -4,6 +4,9 @@ pandas==2.2.1
 numpy==1.26.4
 plotly==5.18.0
 
+# Forecasting
+prophet==1.1.5
+
 # Machine learning & forecasting
 scikit-learn==1.6.1
 scipy==1.15.2
